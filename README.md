@@ -1,5 +1,5 @@
-MicroPython CAN Utilities (Pico/RP2040/RP2350)
-==============================================
+xl2515-micropython
+=================
 
 This repo contains a small CAN controller driver for XL2515 / MCP2515-compatible
 controllers over SPI.
@@ -50,5 +50,4 @@ Limitations
 
 License
 -------
-Add your preferred license before publishing publicly.
-# xl2515-micropython
+MIT. See `LICENSE`.
